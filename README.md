@@ -89,8 +89,7 @@ int main()
 ## OUTPUT
 
 ![EX4](https://github.com/Priyanghaofficial/Linux-IPC-Message-Queues/assets/147121154/8c597e32-f10b-4e28-8090-cc1816dd6a46)
-## RESULT
-The Commands are executed successfully.
+
 
 
 
