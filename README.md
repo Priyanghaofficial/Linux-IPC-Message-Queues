@@ -1,4 +1,4 @@
-# Linux-IPC-Message-Queues
+![image](https://github.com/Priyanghaofficial/Linux-IPC-Message-Queues/assets/147121154/c128f608-7a19-4f6f-a9dd-38df84740084)![image](https://github.com/Priyanghaofficial/Linux-IPC-Message-Queues/assets/147121154/11dfecf9-1074-4fe4-8c43-10a8bcc4e5ee)# Linux-IPC-Message-Queues
 Linux IPC-Message Queues
 
 # AIM:
@@ -87,10 +87,8 @@ int main()
 
 
 ## OUTPUT
-![Uploading image.png…]()
 
-
-
+![aasrith](https://github.com/Priyanghaofficial/Linux-IPC-Message-Queues/assets/147121154/082bf518-4843-4a17-a24e-2fb2440e32b8)
 
 
 # RESULT:
